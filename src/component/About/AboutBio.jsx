@@ -12,12 +12,14 @@ export default function AboutBio() {
     >
       Hi! I'm{" "}
       <b className="text-white">Abdalla Mhesen, a Front-End Developer</b>{" "}
-      specializing in building modern, responsive web applications using{" "}
-      <b className="text-white">React and Next.js.</b> I focus on crafting
-      scalable dashboards and user-friendly interfaces with clean design and
-      high performance. Passionate about creating seamless digital experiences,
-      I aim to deliver fast, efficient, and impactful solutions that help
-      businesses grow and stand out in the digital world.
+      specialized in{" "}
+      <b className="text-white">React.js, JavaScript, and Tailwind CSS.</b> I
+      focus on building responsive, scalable, and high-performance web
+      applications with clean UI/UX and reusable components. I have hands-on
+      experience with REST APIs, JWT authentication, Context API, and Redux
+      Toolkit. I'm seeking a Front-End Developer role in a professional
+      development team where I can deliver fast, efficient, and impactful
+      solutions.
     </motion.p>
   );
 }

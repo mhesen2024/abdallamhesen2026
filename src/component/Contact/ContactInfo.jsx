@@ -3,7 +3,7 @@ import { Mail, Phone, MapPin } from 'lucide-react'
 import { FaGithub, FaLinkedin, FaFacebook, FaInstagram } from 'react-icons/fa'
 
 const contactInfo = [
-  { icon: Mail, label: 'Email', value: 'abdallamhesen2020@gmail.com', href: 'mailto:abdallamhesen2020@gmail.com' },
+  { icon: Mail, label: 'Email', value: 'abdalla.mhesen2020@gmail.com', href: 'mailto:abdalla.mhesen2020@gmail.com' },
   { icon: Phone, label: 'Phone', value: '+972 56-953-4517', href: 'tel:+972569534517' },
   { icon: MapPin, label: 'Location', value: 'Hebron , Palestine', href: null },
 ]
