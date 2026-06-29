@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Offset anchor targets so the fixed navbar doesn't cover section headings */
+section[id] {
+  scroll-margin-top: 6rem;
+}
+
+body {
+  background-color: #020617; /* slate-950 — avoids white flash before sections paint */
+}
