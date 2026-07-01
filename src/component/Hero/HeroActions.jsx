@@ -14,7 +14,7 @@ export default function HeroActions() {
       }}
     >
       <motion.a
-        href="/Abdalla%20Mhesen%20-%20Frontend%20dev%20-%20Cv.pdf"
+        href=""
         download="Abdalla Mhesen - Frontend dev - Cv.pdf"
         className="cursor-pointer inline-flex items-center gap-1.5 sm:gap-2 px-4 py-2 text-sm sm:px-6 sm:py-3 sm:text-base bg-cyan-500/10 border border-cyan-400 text-cyan-300 hover:text-white font-medium rounded-lg transition-all duration-300 shadow-[0_0_10px_rgba(34,211,238,0.4),0_0_40px_rgba(34,211,238,0.15)] hover:shadow-[0_0_20px_rgba(34,211,238,0.6),0_0_60px_rgba(34,211,238,0.3)] hover:bg-cyan-500/20"
         variants={{ hidden: { y: 20, opacity: 0 }, visible: { y: 0, opacity: 1 } }}
